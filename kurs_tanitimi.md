@@ -1,6 +1,6 @@
 # Online Unix/Linux Sistem Programlama Kursu - Genel Tanıtım
 
-+ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir. Kurs `17 Şubat 2026` tarihinde başlayacaktır.
++ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir. Kurs `21 Nisan 2026` tarihinde başlayacaktır.
 
 + `UNIX/Linux` türevi sistemlerinde `C` dilini kullanarak programlama yapmak isteyen, bu sistemlerin aşağı seviyeli tasarım ve yazımını öğrenmek isteyen tüm programcılara yöneliktir. Kursun temel özellikleri şöyle özetlenebilir:
 
