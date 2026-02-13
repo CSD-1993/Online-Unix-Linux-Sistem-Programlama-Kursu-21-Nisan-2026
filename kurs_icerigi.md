@@ -1,4 +1,4 @@
-# Online Unix/Linux Sistem Programlama Kursu - 17 Şubat 2026 (560 Saat)
+# Online Unix/Linux Sistem Programlama Kursu - 21 Nisan 2026 (560 Saat)
 
 ## Temel Kavramlar 
 
