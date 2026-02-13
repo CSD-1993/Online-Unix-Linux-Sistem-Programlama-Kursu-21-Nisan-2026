@@ -1,8 +1,8 @@
-# Online Unix/Linux Sistem Programlama Kursu - 17 Şubat 2026
+# Online Unix/Linux Sistem Programlama Kursu - 21 Nisan 2026
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __17 Şubat 2026__ tarihinde başlayacaktır.
++ Kurs __21 Nisan 2026__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __560__ saattir. 
