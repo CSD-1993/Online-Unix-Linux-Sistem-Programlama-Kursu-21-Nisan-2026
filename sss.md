@@ -1,4 +1,4 @@
-# Online Unix/Linux Sistem Programlama Kursu 17 Şubat 2026 Sık Sorulan Sorular
+# Online Unix/Linux Sistem Programlama Kursu 21 Nisan 2026 Sık Sorulan Sorular
 
 Aşağıda `Kaan Aslan` tarafından verilen `Online Unix-Linux Sistem Programlama Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
