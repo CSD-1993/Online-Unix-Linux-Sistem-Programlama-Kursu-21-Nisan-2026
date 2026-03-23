@@ -6,7 +6,7 @@
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __560__ saattir. 
-+ Dersler __Salı ve Perşembe__ günleri __11:00 - 15:00__ saatleri arasında __4__'er saat __(haftada 8 saat)__ yapılacaktır.
++ Dersler __Salı ve Perşembe__ günleri __10:00 - 14:00__ saatleri arasında __4__'er saat __(haftada 8 saat)__ yapılacaktır.
 +  Kursumuzun toplam ücreti __KDV dahil 87.000 TL__'dir (Peşin ödemede __67.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 77.000 TL__'dir (Peşin ödemede __58.000 TL__ ’dir). Kurs ücreti peşin ya da __4 taksit__ olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar
