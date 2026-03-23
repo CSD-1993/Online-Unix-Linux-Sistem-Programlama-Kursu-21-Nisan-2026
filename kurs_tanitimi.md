@@ -38,7 +38,7 @@ Eğitim Süresi `560` Saattir.
 
 ## Ders Saatleri
 
-Dersler hafta içi `Salı – Perşembe` günleri saat `10.00 – 14.00` saatleri arasında `4`’er saat olarak yapılacaktır.
+Dersler hafta içi `Salı – Perşembe` günleri saat `10:00 – 14:00` saatleri arasında `4`’er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
 Kursumuzun toplam ücreti __KDV dahil 87.000 TL__'dir (Peşin ödemede __67.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 77.000 TL__'dir (Peşin ödemede __58.000 TL__ ’dir). Kurs ücreti peşin ya da __4 taksit__ olarak ödenebilir.
